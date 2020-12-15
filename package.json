@@ -1,0 +1,12 @@
+{
+    "name": "com.rayark.mast",
+    "version": "0.5.2",
+    "displayName": "Rayark Mast",
+    "description": "Mast is a C# library providing functional and concise ways to adopt the concept of Coroutine independently of Unity. It is developed and open-sourced by Rayark Inc under the MIT license.",
+    "unity": "2019.4",
+    "dependencies": {},
+    "keywords": [],
+    "author": {
+        "name": "Rayark"
+    }
+}
